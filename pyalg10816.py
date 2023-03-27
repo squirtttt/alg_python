@@ -23,4 +23,4 @@ for i in range(m):
             b = mid-1
 
 for i in cnt:
-    print(i, end=" ")
+    print(f"idx= {i} ")
